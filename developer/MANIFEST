@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README.md
+t/basic.t
+lib/PDL/UpperSqrt.pm
+lib/PDL/UpperSqrt/Inline.pm

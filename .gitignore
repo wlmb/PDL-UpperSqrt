@@ -1,0 +1,12 @@
+*~
+*#
+.inline
+/.build
+/_build*
+MYMETA.*
+/.prove
+Makefile
+*.old
+blib/
+pm_to_blib
+*.tar.gz

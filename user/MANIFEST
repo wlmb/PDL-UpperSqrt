@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+inc/Inline.pm
+inc/Inline/Module.pm
+inc/Inline/Pdlpp.pm
+inc/Inline/denter.pm
+inc/PDL/UpperSqrt/Inline.pm
+lib/PDL/UpperSqrt.pm
+lib/PDL/UpperSqrt/Inline.pm
+t/basic.t
